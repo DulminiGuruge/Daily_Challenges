@@ -1,4 +1,10 @@
+"""
+Question -
 
+Given an integer array nums, return true if any value appears at least twice in the array, 
+and return false if every element is distinct.
+
+"""
 """
 
 Approach - We can use a hashset we can add values in O(1) and check for duplicates in O(1) but
