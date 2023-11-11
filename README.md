@@ -2,4 +2,5 @@
 
 ### Arrays
 
-1. ContainsDuplicates
+1. Contains Duplicates
+2. Valid Anagram
