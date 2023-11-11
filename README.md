@@ -1,1 +1,5 @@
-# Daily_Challenges
+# Leetcode Challenges 
+
+### Arrays
+
+1. ContainsDuplicates
