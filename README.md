@@ -7,3 +7,5 @@
 3. Two Sum
 4. Group Anagram
 5. Top K frequent elements
+6. Pivot Index
+7. Product of Array Except Self
