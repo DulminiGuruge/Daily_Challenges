@@ -31,7 +31,7 @@ def topKFrequent( nums, k):
 
         for n in nums:
                 count[n] = 1 + count.get(n,0)
-        for n,c in count.items():
+        for n,c in count.items(): # Bucket sort technique is used here
                 freq_as_index[c].append(n)
 
 
