@@ -17,3 +17,7 @@
 ### Sliding Window
 
 1. Best Time to Buy and Sell Stock
+
+### Stack
+
+1. Valid Parentheses
